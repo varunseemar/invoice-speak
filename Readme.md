@@ -372,15 +372,6 @@ cd frontend
 npm test
 ```
 
-### Manual Testing Checklist
-
-- [ ] Upload 2-3 different invoice images
-- [ ] Verify OCR text extraction
-- [ ] Test voice recognition with different queries
-- [ ] Confirm TTS playback
-- [ ] Test "live agent" escalation flow
-- [ ] Verify mobile responsiveness
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
